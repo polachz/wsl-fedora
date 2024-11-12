@@ -4,7 +4,7 @@ RUN dnf -y update && \
 dnf -y install \
 basesystem \
 bash \
-coreutis \
+coreutils \
 curl \
 kbd \
 less \
